@@ -83,9 +83,3 @@ If you’re inspired by our project, feel free to contribute ideas, improvements
 *Thank you for exploring our journey to bring the Antikythera Mechanism to life!*  
 
 ---
-
-### **🔗 Follow Us**  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com)  
-[![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)  
-
----
